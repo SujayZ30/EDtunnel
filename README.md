@@ -1,3 +1,11 @@
+UUID GENERATE : https://www.uuidgenerator.net/
+
+FREE PROXY IP : https://raw.githubusercontent.com/SonzaiEkkusu/EDtu nnel/main/443.txt
+
+CEK REGION PROXY IP : https://ip2geo.org/
+
+
+
 # EDtunnel
 
 <p align="center">
@@ -24,11 +32,6 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 | main          | Main branch for the project                                   |
 | pages         | New version for deployment on Cloudflare Pages                |
 
-UUID GENERATE : https://www.uuidgenerator.net/
-
-FREE PROXY IP : https://raw.githubusercontent.com/SonzaiEkkusu/EDtu nnel/main/443.txt
-
-CEK REGION PROXY IP : https://ip2geo.org/
 
 ## Deploy in pages.dev
 
